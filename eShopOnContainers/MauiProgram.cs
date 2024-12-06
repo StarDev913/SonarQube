@@ -124,7 +124,7 @@ public static class MauiProgram
         mauiAppBuilder.Services.AddTransient<MapView>();
         mauiAppBuilder.Services.AddTransient<ProfileView>();
         mauiAppBuilder.Services.AddTransient<SettingsView>();
-
+//////////////////////////////////////////////////////// It is changed by me.
         return mauiAppBuilder;
     }
 }
